@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Admin/Desktop/f4_st7789/build/cmake_install.cmake",
+		"C:/Users/Admin/Desktop/f4_st7789/build/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
